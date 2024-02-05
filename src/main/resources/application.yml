@@ -1,0 +1,4 @@
+aws:
+  access-key: your-access-key
+  secret-key: your-secret-key
+  bucket-name: testupload2224
