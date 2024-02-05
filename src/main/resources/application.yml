@@ -1,4 +1,4 @@
 aws:
   access-key: your-access-key
-  secret-key: your-secret-key
+  secret-key: your-secret-keys
   bucket-name: testupload2224
